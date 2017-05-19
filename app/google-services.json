@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "600990112902",
+    "firebase_url": "https://storage-bdfab.firebaseio.com",
+    "project_id": "storage-bdfab",
+    "storage_bucket": "storage-bdfab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600990112902:android:9b8019ef1fe2c845",
+        "android_client_info": {
+          "package_name": "com.upt.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600990112902-7vu7c2p4a0e1h4i7p28stmdfep8rlsrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD027Fwr1aXB-39JbY4EABlb3LyqvdV8WY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
